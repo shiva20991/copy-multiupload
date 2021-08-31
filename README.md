@@ -7,7 +7,11 @@ _🎯 Follow me and star this repo for more telegram bots. @HxBots
 <p align="center">
   <img src="https://telegra.ph/file/61f3065220dbbbcc6943e.jpg">
 </p>
+<a href="https://heroku.com/deploy?template=https://github.com/shiva20991/copy-multiupload">
 
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+
+</a>
 ## 🚩 Features
 - *Working on Requests*
 - *Fast Telethon*
